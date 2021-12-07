@@ -1,3 +1,10 @@
+/*
+Sep 17, 2021
+Dr T. TCC
+Scoreboard of a game
+Fundamentals of a menu and fucntions
+*/
+
 #include <iostream>
 #include <string> 
 #include <unistd.h>
